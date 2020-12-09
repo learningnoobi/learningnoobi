@@ -37,6 +37,10 @@
 <br />
 <br />
 
+
+<img align="left" alt="bishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=learningnoobi&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learningnoobi&show_icons=true&hide_border=true)](https://github.com/learningnoobi)
 ---
 
 
