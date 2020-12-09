@@ -40,10 +40,6 @@
 <br />
 <br />
 
-![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=learningnoobi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learningnoobi&show_icons=true&theme=radical)](https://github.com/learningnoobi)
----
 
 
 [website]: https://rayonrae.herokuapp.com
