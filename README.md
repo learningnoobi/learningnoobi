@@ -30,7 +30,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="rayon | django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" /><img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/python.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/python.png" />
 <img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/django.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/git.png" />
 <img align="left" alt="rayon | django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
