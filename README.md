@@ -37,10 +37,9 @@
 <br />
 <br />
 
+![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=learningnoobi&show_icons=true&theme=radical)
 
-<img align="left" alt="bishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=learningnoobi&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learningnoobi&show_icons=true&hide_border=true)](https://github.com/learningnoobi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learningnoobi&show_icons=true&theme=radical)](https://github.com/learningnoobi)
 ---
 
 
