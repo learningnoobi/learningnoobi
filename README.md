@@ -14,6 +14,7 @@
 ### Connect with me:
 
 
+<a href="https://www.facebook.com/endou.rai.5/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/fb.png" /></a>
 [<img align="left" alt="rayon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="rayon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
