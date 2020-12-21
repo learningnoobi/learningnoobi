@@ -6,7 +6,7 @@
 ### Currently Studying Bsc. CSIT (2nd Semester)
 
 - 🔭 I like to write clean code.
-- 🌱 I’m currently learning Django and React 🤣
+- 🌱 I’m currently learning Python ,Django and React 🤣
 - 👯 I’m looking to collaborate with other students in django
 - 🥅 2021 Goals: Create more Real World Projects
 - ⚡ Interest : I love to watch anime and play guitar 
