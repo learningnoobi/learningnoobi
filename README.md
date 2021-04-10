@@ -1,13 +1,12 @@
-### Hello, I'm Bishal  - aka [Rayon](https://rayonrae.herokuapp.com) 👋
+### Hello, I'm Bishal  - aka [Rayon](https://bishalrai12.com.np) 👋
 
-## [Rayon](https://rayonrae.herokuapp.com)
+## [Rayon](https://bishalrai12.com.np)
 
 ## I'm a Student, Developer, and Musician!!
 ### Currently Studying Bsc. CSIT (2nd Semester)
 
-- 🔭 I like to write clean code.
-- 🌱 I’m currently learning Python ,Django and React 🤣
-- 👯 I’m looking to collaborate with other students in django
+- 🌱 I’m currently learning Python,Django and React.
+- 👯 I’m looking to collaborate in Django and React
 - 🥅 2021 Goals: Create more Real World Projects
 - ⚡ Interest : I love to watch anime and play guitar 
 
@@ -41,9 +40,7 @@
 
 
 
-[website]: https://rayonrae.herokuapp.com
+[website]: https://bishalrai12.com.np
 
-[twitter]:https://twitter.com/Rayon25955054
-[instagram]: https://www.instagram.com/bishal9432/
-[linkedin]: https://www.linkedin.com/in/r-a-y-o-n-r-a-e-bbb3831ba/
+
 
