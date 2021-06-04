@@ -3,11 +3,10 @@
 ## [Rayon](https://bishalrai12.com.np)
 
 ## I'm a Student, Developer, and Musician!!
-### Currently Studying Bsc. CSIT (2nd Semester)
+### Currently Studying Bsc. CSIT (3rd Semester)
 
 - 🌱 I’m currently learning Python,Django and React.
 - 👯 I’m looking to collaborate in Django and React
-- 🥅 2021 Goals: Create more Real World Projects
 - ⚡ Interest : I love to watch anime and play guitar 
 
 ### Connect with me:
