@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
