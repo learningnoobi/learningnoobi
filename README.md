@@ -1,8 +1,8 @@
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+<!-- - 🌱 I’m currently learning **Full Stack Development** -->
 
-- 👨‍💻 All of my projects are available at [my website](https://bishalrai12.com.np)
+<!-- - 👨‍💻 All of my projects are available at [my website](https://bishalrai12.com.np) -->
 
 - 💬 Ask me about **Django & React**
 
