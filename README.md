@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=learningnoobi&color=blueviolet)
 <h3 align="left">Full Stack Developer from Nepal</h3>
 
 
