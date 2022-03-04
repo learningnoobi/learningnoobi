@@ -3,5 +3,6 @@
 
 
 - 💬 Ask me about **Django & React**
+- You can read my blogs on https://learningnoobi.com/
 
 - 📫 How to reach me **fanime492@gmail.com**</br>
