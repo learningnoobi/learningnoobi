@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=learningnoobi&color=blueviolet)
-<h3 align="left">Full Stack Developer from Nepal</h3>
+<h3 align="left">Senior Software Engineer from Nepal</h3>
 
 
+
+- My personal website: <a href="https://raibishal.com" target="_blank" >raibishal.com<a/>
 - You can read my unfinished blogs on https://learningnoobi.com/
-- 📫 How to reach me **fanime492@gmail.com**</br>
+- 📫 You can reach me at **rbishal392@gmail.com**</br>
+
