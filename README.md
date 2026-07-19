@@ -4,6 +4,5 @@
 
 
 - My personal website: <a href="https://raibishal.com" target="_blank" >raibishal.com<a/>
-- You can read my unfinished blogs on https://learningnoobi.com/
 - 📫 You can reach me at **rbishal392@gmail.com**</br>
 
